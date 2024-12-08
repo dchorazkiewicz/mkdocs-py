@@ -1,0 +1,21 @@
+site_name: My Project Docs
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - rust
+    - python
+markdown_extensions:
+  - toc
+  - tables
+plugins:
+  - search
+  - macros  # Optional, for template macros
+  - mkdocstrings
+extra_css:
+  - styles/extra.css  # Optional, for custom styling
+
+extra_javascript:
+  - js/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
