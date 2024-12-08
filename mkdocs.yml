@@ -9,6 +9,8 @@ theme:
 markdown_extensions:
   - toc
   - tables
+  - pymdownx.arithmatex:
+      generic: true
 plugins:
   - search
   - macros  # Optional, for template macros
