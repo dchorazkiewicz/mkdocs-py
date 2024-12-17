@@ -6,6 +6,15 @@ class add:
     """
     Dokumentacja
 
+        sdsdsd
+        sdsdsd
+        sdsds
+
+    Lista:
+        - a
+        - b
+        - c
+    
     Oto konfiguracja YAML dla przykładowej klasy:
 
     ```yaml
