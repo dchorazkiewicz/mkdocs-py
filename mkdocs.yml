@@ -6,6 +6,7 @@ theme:
     - yaml
     - rust
     - python
+    - bash
 markdown_extensions:
   - toc
   - tables
